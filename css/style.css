@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,500;1,400&display=swap");
+/* line 2, style.scss */
+* {
+  margin: 0;
+  padding: 0; }
+
+/* line 3, style.scss */
+body {
+  background-color: #2C3E50;
+  font-family: 'Rubik', sans-sarif;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center; }
+
+/* line 4, style.scss */
+.main-headding {
+  color: #5B5B5B !important;
+  -webkit-transition: .4s ease-in-out;
+  transition: .4s ease-in-out; }
+  /* line 4, style.scss */
+  .main-headding:hover {
+    color: #f3f3f3 !important; }
+
+/* line 5, style.scss */
+.bg-primaryy {
+  background-color: #3498DB !important; }
+
+/* line 6, style.scss */
+.bg-successs {
+  background-color: #2ECC71 !important; }
+
+/* line 7, style.scss */
+.bg-dangerss {
+  background-color: #E74C3C !important; }
+
+/*# sourceMappingURL=style.css.map */
